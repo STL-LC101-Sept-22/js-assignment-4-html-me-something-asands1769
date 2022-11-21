@@ -6,11 +6,14 @@ p {
     font-size : 20px
 }
 #mainHeading {
+    padding : 10px;
+    text-align: center;
     color : red;
     font-size : 40px;
     font-style :oblique
 }
 .headers {
+    text-align : center;
     color : rgb(255, 255, 255);
     font-size : 25px
 }
@@ -20,9 +23,15 @@ p {
     font-style : italic;
 }
 footer {
+    text-align : center;
     color : white;
     font-size : 8px
 }
 .funParagraph {
     color : green 
+}
+.images {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
