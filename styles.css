@@ -1,22 +1,28 @@
 p {
-    text-indent: 30px;
+    padding : 50px;
+    text-indent : 30px;
     color : rgb(255, 255, 255);
     font-family : 'Times New Roman', Times, serif;
-    font-size: 20px
+    font-size : 20px
 }
-h1 {
+#mainHeading {
+    color : red;
+    font-size : 40px;
+    font-style :oblique
+}
+.headers {
     color : rgb(255, 255, 255);
-    font-size: 40px
+    font-size : 25px
 }
-h2, h3, h4 {
+#articles {
+    padding : 50px;
     color : rgb(255, 255, 255);
-    font-size: 25px
-}
-article {
-    color: rgb(255, 255, 255);
-    font-style: italic;
+    font-style : italic;
 }
 footer {
-    color: white;
-    font-size: 8px
+    color : white;
+    font-size : 8px
+}
+.funParagraph {
+    color : green 
 }
