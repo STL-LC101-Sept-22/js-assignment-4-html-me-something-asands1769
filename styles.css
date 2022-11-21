@@ -1,1 +1,22 @@
-/* Write your CSS here! */
+p {
+    text-indent: 30px;
+    color : rgb(255, 255, 255);
+    font-family : 'Times New Roman', Times, serif;
+    font-size: 20px
+}
+h1 {
+    color : rgb(255, 255, 255);
+    font-size: 40px
+}
+h2, h3, h4 {
+    color : rgb(255, 255, 255);
+    font-size: 25px
+}
+article {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+footer {
+    color: white;
+    font-size: 8px
+}
